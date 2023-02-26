@@ -1,0 +1,616 @@
+html {
+    box-sizing: border-box;
+  }
+  body{
+    /* Frame 155 */
+
+
+position: relative;
+width: 1920px;
+height: 5206px;
+
+background: #FFFFFF;
+  }
+  
+  .button--primary {
+    /* ĐĂNG KÝ NHẬN */
+
+
+    height: 26px;
+    width: 130px;
+    left: 0px;
+    top: 0px;
+    border-radius: 6px;
+    padding: 6px 15.5px;
+    
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+
+/* Neutral/1 */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+    background: rgba(255, 255, 255, 1);
+    background: linear-gradient(90deg, #00E7AE 0%, #003CE3 100%);
+;
+}
+.button {
+  /* Frame 168 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding:5px 7px;
+gap: 10px;
+
+
+/* gradient */
+
+background: linear-gradient(90deg, #00E7AE 0%, #003CE3 100%);
+border-radius: 6px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+text{
+  /* E-NEWSLETTER TỪ BEAUTIVI.VN */
+
+
+width: 188px;
+height: 24px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 24px;
+/* identical to box height, or 200% */
+
+
+color: #000000;
+
+}
+.login{
+ 
+border-radius: 6px;
+padding: 10px;
+
+
+}
+.header{
+  height: 120px;
+  padding-left: 360px;
+  padding-right: 360px;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  margin-bottom: 20px;
+
+}
+.logo{/* image 46 */
+
+
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 900px;
+  top: 0px;
+  display: flex;
+  
+  background: url(.png);
+}
+.text--0{
+
+padding: 0 10px;
+  width: 188px;
+  height: 24px;
+  
+  font-family: 'Encode Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 24px;
+  /* identical to box height, or 200% */
+  
+  padding: 10px;
+  color: #000000;
+  
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+
+}
+.text--2{
+  color: #003CE3;
+}
+.icon{
+  padding-left: 22px;
+}
+.menu {
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0px 496px 0 496px;
+  gap: 0 24px;
+}
+.menu-trangchu{
+  background: linear-gradient(180deg, #00E7AE 0%, #003CE3 100%);
+
+  width: 79px;
+height: 18px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+background: linear-gradient(180deg, #00E7AE 0%, #003CE3 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+}
+.menu-lamdep{
+  /* LÀM ĐẸP */
+
+
+width: 61px;
+height: 18px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* Neutral / 11 */
+
+color: #1F1F1F;
+
+}
+.menu-thoitrang{
+  /* THỜI TRANG */
+
+
+width: 84px;
+height: 18px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* Neutral / 11 */
+
+color: #1F1F1F;
+
+
+}
+.menu-doisong{
+  /* ĐỜI SỐNG */
+
+
+width: 66px;
+height: 18px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* Neutral / 11 */
+
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+}
+.menu-video-podcast{
+  width: 113px;
+height: 18px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* Neutral / 11 */
+
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+flex-grow: 0;
+}
+.menu-bacsi{
+  width: 42px;
+height: 18px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* Neutral / 11 */
+
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 5;
+flex-grow: 0;
+}
+.menu-danhsachspa{
+  width: 108px;
+height: 18px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* Neutral / 11 */
+
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 6;
+flex-grow: 0;
+}
+.menu-skincare{
+  /* SKINCARE INGREDIENTS */
+
+
+width: 160px;
+height: 18px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* Neutral / 11 */
+
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 7;
+flex-grow: 0;
+}
+.menu-vector{
+  height: 20.31399917602539px;
+  width: 20.31399917602539px;
+  left: 2px;
+  top: 2px;
+  border-radius: 0px;
+  /* Inside auto layout */
+
+flex: none;
+order: 8;
+flex-grow: 0;
+  }
+.hotnews{/* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 24px;
+  
+  position: absolute;
+  width: 1920px;
+  height: 40px;
+  left: 0px;
+  top: 188px;
+  
+  background: linear-gradient(90deg, #00E7AE 0%, #003CE3 100%);
+}
+.hotnew-item{
+  width: 376px;
+  height: 15px;
+  
+  font-family: 'Encode Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  
+  
+  /* Neutral/1 */
+  
+  color: #FFFFFF;
+  
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.backgr{
+  /* Rectangle 64 */
+
+
+position: absolute;
+width: 792px;
+height: 528px;
+left: 768px;
+top: 283px;
+
+background: url(.jpg), url(image.png);
+border-radius: 16px;
+}
+.content{
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 12px;
+
+width: 462px;
+height: 242px;
+
+background: rgba(255, 255, 255, 0.6);
+box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(20px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 16px;
+margin-left: 360px;
+margin-top: 200px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.box{
+  display: flex;
+  align-items: center;
+}
+.fashion{
+  /* FASHION */
+
+
+width: 58px;
+height: 18px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* gradient */
+
+background: linear-gradient(90deg, #00E7AE 0%, #003CE3 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.circle{
+  background: linear-gradient(90deg, #00E7AE 0%, #003CE3 100%);
+  border: 0;
+  border-radius: 50%;
+  width: 6px;
+height: 6px;
+margin:  0px 12px ; 
+
+}
+.current-time{
+  width: 68px;
+height: 18px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+/* Neutral/8 */
+
+color: #595959;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+.title{
+  width: 438px;
+height: 56px;
+margin-top:12px ;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* or 140% */
+
+
+/* Neutral / 11 */
+
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+
+flex: none;
+
+align-self: stretch;
+flex-grow: 0;
+}
+.details{
+  width: 438px;
+height: 120px;
+
+font-family: 'Encode Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+text-align: justify;
+
+/* Neutral/8 */
+
+color: #595959;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+}
+.circle--big1{
+  position: absolute;
+width: 382px;
+height: 382px;
+left: 333px;
+top: 554px;
+
+/* xanh luc */
+
+background: #00E7AE;
+opacity: 0.1;
+filter: blur(100px);
+}
+.circle--big2{
+  position: absolute;
+  width: 382px;
+  height: 382px;
+  left: 47px;
+  top: 431px;
+  
+  /* xanh lam */
+  
+  background: #003CE3;
+  opacity: 0.1;
+  filter: blur(100px);
+}
+.circle--1{
+  display: flex;
+  box-sizing: border-box;
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 360px;
+top: 670px;
+border-radius: 100%;
+
+/* Neutral/1 */
+
+background: #FFFFFF;
+/* Neutral/4 */
+
+border: 1px solid #F0F0F0;
+padding: 13px;
+
+}
+.circle--2{
+  display: flex;
+  box-sizing: border-box;
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 412px;
+top: 670px;
+padding: 13px;
+border-radius:  100%; ;
+
+/* Neutral/1 */
+
+background: #FFFFFF;
+/* Neutral/4 */
+
+border: 1px solid #F0F0F0;
+}
